@@ -9,6 +9,12 @@ h1{
   font-size: 30px;
 }
 
+#date{
+  display: inline;
+  justify-content: left;
+}
+  
+
 #contact{
  text-align: center;
   font-weight: 300;
